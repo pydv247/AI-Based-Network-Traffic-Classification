@@ -1,0 +1,6 @@
+﻿*.arff
+*.zip
+__pycache__/
+app_old.py
+rf_model.pkl
+scaler.pkl
